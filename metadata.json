@@ -1,0 +1,7 @@
+{
+  "name": "A.B.V.O.S. - Association Bon Voisinage",
+  "description": "Association Bon Voisinage des Oeuvres Sociales à Ouled Berhil, Taroudant. Plateforme d'entraide et de solidarité marocaine.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
